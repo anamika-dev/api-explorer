@@ -1,0 +1,24 @@
+/* App.css */
+
+body {
+  background-color: #3f5f7a;
+}
+.fullscreen {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3f5f7a;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.service-details-container .list-group-item {
+  background-color: #3f5f7a;
+  color: #fff;
+  border: none;
+  max-width: 1180px;
+  margin: 70px auto;
+}
